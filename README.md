@@ -1,2 +1,3 @@
 # balance_sheet
-A simple balance sheet using CSS and HTML
+
+Practicing the basics of CSS positioning and selectors
